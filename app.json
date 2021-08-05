@@ -14,7 +14,7 @@
     },
     "DUMP_CHAT": {
       "description": "give channel t's username without @ or id which should use as logging chat",
-      "required": true
+      "required": true,
       "value": "me"
     },
    
@@ -25,7 +25,7 @@
     "API_HASH": {
       "description": "App hash from my.telegram.org/apps",
       "required": true
-
+    }
     "UPDATE_TIME": {
       "description": "update interval (sec.",
       "required": true,
