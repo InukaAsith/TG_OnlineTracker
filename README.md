@@ -9,13 +9,16 @@ Join [@DaisySupport_Official 🎵](https://t.me/DaisySupport_Official) for help
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/InukaAsith/TG_OnlineTracker"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
+## 😐 Features
 
+¥ Track real tikes that user is online by checking in each x seconds
+¥ Report is sent to a dump chat
 
 ### Self-hosting (For Devs) ⚔
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Inukaasith/anonymoussender
-$ cd AnonymousSender
+$ git clone https://github.com/Inukaasith/TG_OnlineTracker/
+$ cd TG_OnlineTracker
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
 # Edit vars
