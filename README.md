@@ -15,7 +15,7 @@ Get pyrogram (p)  `SESSION` from here:
 
 ## 😐 Features
 
-- Track real tikes that user is online by checking in each x seconds
+- Track real times that user is online by checking in each x seconds
 - Report is sent to a dump chat
 
 ### Self-hosting (For Devs) ⚔
