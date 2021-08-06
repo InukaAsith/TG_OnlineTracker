@@ -11,8 +11,8 @@ Join [@DaisySupport_Official 🎵](https://t.me/DaisySupport_Official) for help
 
 ## 😐 Features
 
-¥ Track real tikes that user is online by checking in each x seconds
-¥ Report is sent to a dump chat
+- Track real tikes that user is online by checking in each x seconds
+- Report is sent to a dump chat
 
 ### Self-hosting (For Devs) ⚔
 ```sh
