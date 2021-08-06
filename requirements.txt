@@ -1,2 +1,3 @@
 Pyrogram
 TgCrypto
+python-dotenv
