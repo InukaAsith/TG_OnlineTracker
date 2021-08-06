@@ -9,6 +9,10 @@ Join [@DaisySupport_Official 🎵](https://t.me/DaisySupport_Official) for help
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/InukaAsith/TG_OnlineTracker"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
+Get pyrogram (p)  `SESSION` from here:
+[![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
+
+
 ## 😐 Features
 
 - Track real tikes that user is online by checking in each x seconds
